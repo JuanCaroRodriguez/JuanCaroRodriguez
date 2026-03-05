@@ -82,13 +82,17 @@ React • Node.js • Express REST APIs • Vite • Next.js • HTML5 • CSS3
 
 # Automation & Artificial Intelligence
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,python" />
+</p>
+
 Technologies used for **AI integration and workflow automation**
 
 - RPA (Robotic Process Automation)
 - Workflow orchestration with **n8n**
-- Integration of **Open Source AI Models**
+- Machine learning with **TensorFlow**
+- Integration of **open source AI models**
 - API automation
-- Process optimization
 - AI-powered workflows
 
 ---
