@@ -144,11 +144,11 @@ Git • GitHub • Linux • Docker • VS Code
 <p align="center">
 
 <a href="https://www.linkedin.com/in/juancarorodriguez">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Juan%20Camilo%20Caro%20Rodriguez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:jcarorodruiguez@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
