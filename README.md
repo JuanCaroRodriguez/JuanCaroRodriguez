@@ -109,15 +109,14 @@ Git • GitHub • Linux • Docker • VS Code
 
 ---
 
-# 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=JuanCaroRodriguez&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCaroRodriguez&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170"/>
-</p>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=JuanCaroRodriguez&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JuanCaroRodriguez&show_icons=true&theme=tokyonight" height="170"/>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JuanCaroRodriguez&layout=compact&theme=tokyonight" height="170"/>
+
 </p>
 
 ---
