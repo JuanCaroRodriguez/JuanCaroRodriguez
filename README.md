@@ -130,7 +130,7 @@ Git • GitHub • Linux • Docker • VS Code
 </a>
 
 <a href="https://github.com/JuanCaroRodriguez/SistemaClasificacionDeArboles">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JuanCaroRodriguez&repo=GestionDeEspacios&theme=tokyonight"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JuanCaroRodriguez&repo=SistemaClasificacionDeArboles&theme=tokyonight"/>
 </a>
 
 </p>
