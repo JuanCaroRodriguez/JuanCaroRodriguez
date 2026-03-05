@@ -58,10 +58,10 @@ PowerShell • Spotify • npm
 ## Web Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,vite,nextjs,html,css" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,vite,nextjs,html,css,net" />
 </p>
 
-React • Node.js • Express REST APIs • Vite • Next.js • HTML5 • CSS3 
+React • Node.js • Express REST APIs • Vite • Next.js • HTML5 • CSS3 • .NET 
 
 ---
 
@@ -116,10 +116,10 @@ Technologies used for **AI integration and workflow automation**
 # Tools & Technologies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,postman" />
 </p>
 
-Git • GitHub • Linux • Docker • VS Code
+Git • GitHub • Linux • Docker • VS Code • PostMan
 
 ---
 
