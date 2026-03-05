@@ -48,20 +48,20 @@ JavaScript • TypeScript • Python • Java • C++ • C#
 # Development Ecosystem
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=vite,nextjs,powershell" />
+<img src="https://skillicons.dev/icons?i=powershell,spotify,npm" />
 </p>
 
-Vite • Next.js • PowerShell • Spotify
+PowerShell • Spotify • npm
 
 ---
 
 ## Web Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,html,css,express" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,vite,nextjs,html,css" />
 </p>
 
-React • Node.js • Express • HTML5 • CSS3 • REST APIs
+React • Node.js • Express REST APIs • Vite • Next.js • HTML5 • CSS3 
 
 ---
 
