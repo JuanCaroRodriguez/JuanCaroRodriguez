@@ -121,6 +121,18 @@ Git • GitHub • Linux • Docker • VS Code
 
 ---
 
+# 🚀 Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/JuanCaroRodriguez/GestionDeEspacios">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanCaroRodriguez&repo=GestionDeEspacios&theme=tokyonight"/>
+</a>
+
+</p>
+
+---
+
 # 🔥 GitHub Streak
 
 <p align="center">
