@@ -133,6 +133,10 @@ Git • GitHub • Linux • Docker • VS Code
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JuanCaroRodriguez&repo=SistemaClasificacionDeArboles&theme=tokyonight"/>
 </a>
 
+<a href="https://github.com/JuanCaroRodriguez/GestionCualificacionDocente">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JuanCaroRodriguez&repo=GestionCualificacionDocente&theme=tokyonight"/>
+</a>
+
 </p>
 
 ---
