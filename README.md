@@ -15,7 +15,7 @@
 
 ---
 
-# 👨‍💻 About Me
+# 👨🏻‍💻 About Me
 
 🎓 Systems Engineering student with experience in **web development**, **AI-based automation**, and **RPA solutions**.
 
@@ -35,7 +35,7 @@ I have experience working with **modern full-stack technologies**, integrating *
 
 # ⚡ Tech Stack
 
-## 👨‍💻 Programming Languages
+## 👨🏻‍💻 Programming Languages
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp" />
