@@ -143,7 +143,7 @@ Git • GitHub • Linux • Docker • VS Code
 
 <p align="center">
 
-<a href="https://linkedin.com">
+<a href="www.linkedin.com/in/juancarorodriguez">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
