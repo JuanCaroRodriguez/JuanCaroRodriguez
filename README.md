@@ -38,10 +38,20 @@ I have experience working with **modern full-stack technologies**, integrating *
 ## Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,cs" />
 </p>
 
-JavaScript • TypeScript • Python • Java • C++
+JavaScript • TypeScript • Python • Java • C++ • C#
+
+---
+
+# Development Ecosystem
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vite,nextjs,powershell" />
+</p>
+
+Vite • Next.js • PowerShell • Spotify
 
 ---
 
