@@ -181,7 +181,7 @@ Software Engineering
 <img src="https://img.shields.io/badge/LinkedIn-Juan%20Camilo%20Caro%20Rodriguez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:jcarorodruiguez@gmail.com">
+<a href="mailto:jcarorodruiguez@gmail.com?subject=Contact%20from%20GitHub&body=Hello%20Juan,%20I%20saw%20your%20GitHub%20profile%20and%20I%20would%20like%20to%20talk%20with%20you.">
 <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
