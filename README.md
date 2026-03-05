@@ -143,11 +143,11 @@ Git • GitHub • Linux • Docker • VS Code
 
 <p align="center">
 
-<a href="www.linkedin.com/in/juancarorodriguez">
+<a href="https://www.linkedin.com/in/juancarorodriguez">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:tuemail@email.com">
+<a href="mailto:jcarorodruiguez@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
