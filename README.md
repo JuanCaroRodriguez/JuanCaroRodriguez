@@ -1,11 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Juan%20Camilo%20Caro%20Rodríguez&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Juan%20Camilo%20Caro%20Rodriguez&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
 
 <h3 align="center">
-💻 Systems Engineering Student | Web Developer | AI & RPA Automation
+<code>&lt;/&gt;</code> Systems Engineering Student | Web Developer | AI & RPA Automation
 </h3>
 
 <p align="center">
-🚀 Passionate about technology, automation and intelligent solutions
+Technology enthusiast focused on automation and intelligent solutions
 </p>
 
 <p align="center">
@@ -15,15 +15,15 @@
 
 ---
 
-# 👨🏻‍💻 About Me
+# About Me
 
-🎓 Systems Engineering student with experience in **web development**, **AI-based automation**, and **RPA solutions**.
+Systems Engineering student with experience in **web development**, **AI-based automation**, and **RPA solutions**.
 
 I develop technological solutions that combine **software engineering, data analysis and artificial intelligence** to optimize processes and improve digital systems.
 
 I have experience working with **modern full-stack technologies**, integrating **open source models**, automation tools and **data analytics tools like Power BI**.
 
-### 💡 Soft Skills
+### Soft Skills
 
 ✔ Teamwork  
 ✔ Effective communication  
@@ -33,9 +33,9 @@ I have experience working with **modern full-stack technologies**, integrating *
 
 ---
 
-# ⚡ Tech Stack
+# Tech Stack
 
-## 👨🏻‍💻 Programming Languages
+## Programming Languages
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp" />
@@ -45,7 +45,7 @@ JavaScript • TypeScript • Python • Java • C++
 
 ---
 
-## 🌐 Web Development
+## Web Development
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,nodejs,html,css,express" />
@@ -55,7 +55,7 @@ React • Node.js • Express • HTML5 • CSS3 • REST APIs
 
 ---
 
-## 🗄️ Databases
+## Databases
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
@@ -70,7 +70,7 @@ React • Node.js • Express • HTML5 • CSS3 • REST APIs
 
 ---
 
-# 🤖 Automation & Artificial Intelligence
+# Automation & Artificial Intelligence
 
 Technologies used for **AI integration and workflow automation**
 
@@ -83,7 +83,7 @@ Technologies used for **AI integration and workflow automation**
 
 ---
 
-# 📊 Data & Business Intelligence
+# Data & Business Intelligence
 
 <p align="center">
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
@@ -99,7 +99,7 @@ Technologies used for **AI integration and workflow automation**
 
 ---
 
-# 🧰 Tools & Technologies
+# Tools & Technologies
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode" />
@@ -109,7 +109,7 @@ Git • GitHub • Linux • Docker • VS Code
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
 
@@ -121,7 +121,7 @@ Git • GitHub • Linux • Docker • VS Code
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 <p align="center">
 
@@ -137,7 +137,7 @@ Git • GitHub • Linux • Docker • VS Code
 
 ---
 
-# 🔥 GitHub Streak
+# GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=JuanCaroRodriguez&theme=tokyonight&hide_border=true"/>
@@ -145,17 +145,17 @@ Git • GitHub • Linux • Docker • VS Code
 
 ---
 
-# 🧠 Areas of Interest
+# Areas of Interest
 
-🚀 Artificial Intelligence  
-🤖 Automation & RPA  
-🌐 Web Development  
-📊 Data Analytics & Business Intelligence  
-⚙ Software Engineering  
+Artificial Intelligence  
+Automation & RPA  
+Web Development  
+Data Analytics & Business Intelligence  
+Software Engineering  
 
 ---
 
-# 🌎 Connect With Me
+# Connect With Me
 
 <p align="center">
 
@@ -171,12 +171,12 @@ Git • GitHub • Linux • Docker • VS Code
 
 ---
 
-# 💡 Personal Philosophy
+# Personal Philosophy
 
 > "Technology properly applied can transform processes, businesses and lives."
 
 ---
 
-⭐ If you are interested in collaborating on **AI, automation, data analytics or software development projects**, feel free to connect!
+If you are interested in collaborating on **AI, automation, data analytics or software development projects**, feel free to connect!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
