@@ -21,7 +21,7 @@
 
 I develop technological solutions that combine **software engineering, data analysis and artificial intelligence** to optimize processes and improve digital systems.
 
-I have experience working with **modern full-stack technologies**, integrating **open source models**, automation tools and data-driven approaches.
+I have experience working with **modern full-stack technologies**, integrating **open source models**, automation tools and **data analytics tools like Power BI**.
 
 ### 💡 Soft Skills
 
@@ -41,11 +41,7 @@ I have experience working with **modern full-stack technologies**, integrating *
 <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp" />
 </p>
 
-- JavaScript
-- TypeScript
-- Python
-- Java
-- C++
+JavaScript • TypeScript • Python • Java • C++
 
 ---
 
@@ -55,12 +51,7 @@ I have experience working with **modern full-stack technologies**, integrating *
 <img src="https://skillicons.dev/icons?i=react,nodejs,html,css,express" />
 </p>
 
-- React
-- Node.js
-- Express
-- HTML5
-- CSS3
-- REST APIs
+React • Node.js • Express • HTML5 • CSS3 • REST APIs
 
 ---
 
@@ -70,31 +61,37 @@ I have experience working with **modern full-stack technologies**, integrating *
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
-### SQL Databases
+### SQL
 - MySQL  
 - PostgreSQL  
 
-### NoSQL Databases
+### NoSQL
 - MongoDB  
 
 ---
 
 # 🤖 Automation & Artificial Intelligence
 
-Technologies and approaches used for **intelligent automation and AI integration**.
+Technologies used for **AI integration and workflow automation**
 
 - RPA (Robotic Process Automation)
 - Workflow orchestration with **n8n**
-- Integration of **open source AI models**
+- Integration of **Open Source AI Models**
 - API automation
 - Process optimization
-- AI powered workflows
+- AI-powered workflows
 
 ---
 
 # 📊 Data & Business Intelligence
 
+<p align="center">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+</p>
+
 - Data analytics
+- Data visualization with **Power BI**
 - Mathematical foundations for data analysis
 - Data processing and transformation
 - Data-driven decision making
@@ -108,15 +105,17 @@ Technologies and approaches used for **intelligent automation and AI integration
 <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode" />
 </p>
 
+Git • GitHub • Linux • Docker • VS Code
+
 ---
 
 # 📈 GitHub Analytics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanCaroRodriguez&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanCaroRodriguez&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCaroRodriguez&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCaroRodriguez&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -125,7 +124,7 @@ Technologies and approaches used for **intelligent automation and AI integration
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanCaroRodriguez&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=JuanCaroRodriguez&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -135,7 +134,7 @@ Technologies and approaches used for **intelligent automation and AI integration
 🚀 Artificial Intelligence  
 🤖 Automation & RPA  
 🌐 Web Development  
-📊 Data Analytics  
+📊 Data Analytics & Business Intelligence  
 ⚙ Software Engineering  
 
 ---
@@ -162,6 +161,6 @@ Technologies and approaches used for **intelligent automation and AI integration
 
 ---
 
-⭐ If you are interested in collaborating on **AI, automation or software development projects**, feel free to connect!
+⭐ If you are interested in collaborating on **AI, automation, data analytics or software development projects**, feel free to connect!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
