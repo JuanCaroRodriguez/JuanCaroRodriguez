@@ -126,7 +126,7 @@ Git • GitHub • Linux • Docker • VS Code
 <p align="center">
 
 <a href="https://github.com/JuanCaroRodriguez/GestionDeEspacios">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanCaroRodriguez&repo=GestionDeEspacios&theme=tokyonight"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JuanCaroRodriguez&repo=GestionDeEspacios&theme=tokyonight"/>
 </a>
 
 </p>
