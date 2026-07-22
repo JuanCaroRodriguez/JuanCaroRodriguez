@@ -147,6 +147,10 @@ Git • GitHub • Linux • Docker • VS Code • PostMan
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JuanCaroRodriguez&repo=GestionCualificacionDocente&theme=tokyonight"/>
 </a>
 
+<a href="https://github.com/JuanCaroRodriguez/GestionDeEspacios">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JuanCaroRodriguez&repo=GestionCualificacionDocente&theme=tokyonight"/>
+</a>
+
 </p>
 
 ---
