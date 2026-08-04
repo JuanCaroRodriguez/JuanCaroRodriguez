@@ -68,17 +68,25 @@ React • Node.js • Express REST APIs • Vite • Next.js • HTML5 • CSS3 
 ## Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="MySQL, PostgreSQL and MongoDB" />
+  <img src="https://cdn.simpleicons.org/pinecone" alt="Pinecone" width="48" height="48" />
 </p>
 
 ### SQL
-- MySQL  
-- PostgreSQL  
+
+* MySQL
+* PostgreSQL
 
 ### NoSQL
-- MongoDB  
+
+* MongoDB
+
+### Vector Database
+
+* Pinecone
 
 ---
+
 
 # Automation & Artificial Intelligence
 
