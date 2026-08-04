@@ -151,6 +151,10 @@ Git • GitHub • Linux • Docker • VS Code • PostMan
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JuanCaroRodriguez&repo=GestionDeEspacios&theme=tokyonight"/>
 </a>
 
+<a href="https://github.com/JuanCaroRodriguez/ProgramadoresPorlaPaz">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JuanCaroRodriguez&repo=ProgramadoresPorlaPaz&theme=tokyonight"/>
+</a>
+
 </p>
 
 ---
