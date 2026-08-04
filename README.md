@@ -69,7 +69,7 @@ React • Node.js • Express REST APIs • Vite • Next.js • HTML5 • CSS3 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="MySQL, PostgreSQL and MongoDB" />
-  <img src="https://cdn.simpleicons.org/pinecone" alt="Pinecone" width="48" height="48" />
+  <img src="https://devicons.io/devicons/icons/pinecone-icon.svg" alt="Pinecone" width="48" height="48" />
 </p>
 
 ### SQL
